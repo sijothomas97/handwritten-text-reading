@@ -106,7 +106,7 @@ The project is structured as a Jupyter Notebook, providing step-by-step guidance
 - **Out of Memory Errors**: Reduce the batch size if you're running into memory constraints.
 
 ## Contributors
-- [Your Name](https://github.com/your-username)
+- [sijothomas97](https://github.com/sijothomas97)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
